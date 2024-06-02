@@ -1,5 +1,5 @@
 ---
-title: 6. kokous 20.5.2024
+title: 6. kokous 20.5.2024/28.5.2024
 subtitle: 
 date: 2024-05-20T12:14:51.063Z
 summary: "Hellufest-kokous 20.5.2024"
@@ -137,6 +137,6 @@ Myönnetään puhe- ja läsnäolo-oikeudet Sannalle <3
 8. Kokouksen päättäminen
 
 	8.1.Kokous keskeytettiin ajassa 17:39
-	
+
 	8.2. Kokous päätettiin ajassa 15:17
 
