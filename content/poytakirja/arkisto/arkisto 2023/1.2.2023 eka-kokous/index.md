@@ -20,7 +20,7 @@ Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 1.2.2023
 Pöytäkirja
 
 Läsnäolijat:
-Al-hello Zahraa, Awad Amina, Hassan Fatima, Lintula Oskari, Makkonen Jesse, Miettunen Teresa, Parola Axel, Putus Iivo, Pyylampi Elina, Seppälä Sanni,   Vilho, Silander Camilla, Kosonen Juuso.
+Al-hello Zahraa, Awad Amina, Hassan Fatima, Lintula Oskari, Makkonen Jesse, Miettunen Teresa, Parola Axel, Putus Iivo, Pyylampi Elina, Seppälä Sanni, Vilho, Silander Camilla, Kosonen Juuso.
 
 1. Kokouksen avaus - kokous avattiin ajassa 14:51
 2. Kokouksen laillisuus ja päätösvaltaisuus - kokous todettiin lailliseksi ja

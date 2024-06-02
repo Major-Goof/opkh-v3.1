@@ -17,7 +17,7 @@ url: "/viides-kokous-2023"
 Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 29.3.2023
 Pöytäkirja
 
-Läsnäolijat: Lintula Oskari, Makkonen Jesse,Al-hello Zahraa, Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina, Seppälä Sanni,   Vilho, Parola Axel Silander Camilla.
+Läsnäolijat: Lintula Oskari, Makkonen Jesse,Al-hello Zahraa, Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina, Seppälä Sanni, Vilho, Parola Axel Silander Camilla.
 
 1. Kokouksen avaus - kokous avattiin ajassa 14:43
 
@@ -31,7 +31,7 @@ päätösvaltaiseksi
 
     4.1. Hellu merch.
 
-    Lintula Oskari, Makkonen Jesse,Al-hello Zahraa,  Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina,   Vilho, Parola Axel ja Silander Camilla hoitaa merchin.
+    Lintula Oskari, Makkonen Jesse,Al-hello Zahraa,  Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina, Vilho, Parola Axel ja Silander Camilla hoitaa merchin.
 
     Toiminta aloitetaan heti.
 

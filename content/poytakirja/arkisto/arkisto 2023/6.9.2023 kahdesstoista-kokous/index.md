@@ -17,7 +17,7 @@ url: "/yhdestoista-kokous-2023"
   Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 30.8.2023
 Pöytäkirja
 
-Läsnäolijat:  Amina Awad,  Lintula Oskari, Makkonen Jesse, Hassan Fatima, Al-hello Zahraa Miettunen Teresa, Putus Iivo,   Vilho, Axel Parola 
+Läsnäolijat:  Amina Awad,  Lintula Oskari, Makkonen Jesse, Hassan Fatima, Al-hello Zahraa Miettunen Teresa, Putus Iivo, Vilho, Axel Parola 
 
 
 
