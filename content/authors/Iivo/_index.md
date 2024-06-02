@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Tapahtumavastaava
+role: Talousvastaava
 
 # Organizations/Affiliations
 #organizations:
@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:iivo.putus@edu.hel.fi 
-#- icon: instagram
-#  icon_pack: fab
-#  link: 
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/iivoputus/
 #- icon: snapchat
 #  icon_pack: fab
 #  link: 
@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Tapahtumatiimi
+- Talousvastaava
 ---
-heittäytyvä heppu ja ihan vaan mukava ja helposti lähestyttävä veijari, joka haluu antaa muille positiivisii fiiliksii :D
+ilopilleri, rahanpesijä, self proclaimed goofy goober ja abi.

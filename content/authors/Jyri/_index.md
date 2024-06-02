@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Juuso Kosonen
+title: Jyri Muittari
 
 # Username (this should match the folder name)
 authors:
-- Juuso
+- Jyri
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Vanha nettisivun ylläpitäjä
+role: Talousapuri
 
 # Organizations/Affiliations
 #organizations:
@@ -39,7 +39,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:juuso.kosonen@edu.hel.fi
+  link: mailto:jyri.muittari@edu.hel.fi 
 #- icon: instagram
 #  icon_pack: fab
 #  link: 
@@ -60,8 +60,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: 
-- Vanha ylläpitäjä
+user_groups:
+- Talousapuri
+- Yllapito
 ---
-Moi oon Juuso ja ylläpidin näitä netti sivuja 2023-2024
-ps. en ollut OPKH:n jäsen

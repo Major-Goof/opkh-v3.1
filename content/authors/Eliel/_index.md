@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Juuso Kosonen
+title: Eliel Rantalaiho
 
 # Username (this should match the folder name)
 authors:
-- Juuso
+- Eliel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Vanha nettisivun ylläpitäjä
+role: Varapuheenjohtaja
 
 # Organizations/Affiliations
 #organizations:
@@ -37,15 +37,16 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:juuso.kosonen@edu.hel.fi
-#- icon: instagram
-#  icon_pack: fab
-#  link: 
-#- icon: snapchat
-#  icon_pack: fab
-#  link: 
+ - icon: envelope
+   icon_pack: fas
+   link: mailto:amina.awad@edu.hel.fi
+   
+# - icon: instagram
+#   icon_pack: fab
+#   link: 
+# - icon: snapchat
+#   icon_pack: fab
+#   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,15 +54,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "eliel.rantalaiho@edu.hel.fi"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: 
-- Vanha ylläpitäjä
+user_groups:
+- Varapuheenjohtaja
 ---
-Moi oon Juuso ja ylläpidin näitä netti sivuja 2023-2024
-ps. en ollut OPKH:n jäsen
