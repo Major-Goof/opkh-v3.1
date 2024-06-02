@@ -1,7 +1,7 @@
 ---
 title: 5. kokous 6.5.2024
 subtitle: 
-date: 2024-05-6T12:14:51.063Z
+date: 2024-05-06T12:14:51.063Z
 summary: "Viides kokous 6.5.2024"
 draft: false
 featured: false
@@ -27,11 +27,11 @@ Todettu
 
 3. Kokouksen järjestäytyminen 
 
-		-Sihteerinä toimii Alex Hihnala ja puheenjohtajana Jesse Makkonen 17:20 saakka, sekä Eliel Rantalaiho 17:20 eteenpäin
+	-Sihteerinä toimii Alex Hihnala ja puheenjohtajana Jesse Makkonen 17:20 saakka, sekä Eliel Rantalaiho 17:20 eteenpäin
 	
 	3.1. Läsnäolijat 
 
-		Makkonen Jesse, Hihnala Alex, Putus Iivo, Khan Mahdi, Muittari Jyri, Mohammed Najma, Loponen Mikki, Rantalaiho Eliel, Tikka Kaisa, Puukko Iiris, Kivilaakso Elli
+	Makkonen Jesse, Hihnala Alex, Putus Iivo, Khan Mahdi, Muittari Jyri, Mohammed Najma, Loponen Mikki, Rantalaiho Eliel, Tikka Kaisa, Puukko Iiris, Kivilaakso Elli
 
 	-Heinonen Albert saapui kokoukseen klo 16:35
 	-Jesse Makkonen poistuu kokouksesta klo 17:20
@@ -39,7 +39,7 @@ Todettu
 
 	3.2. Myönnetään puhe- ja läsnäolo-oikeudet.
 
-		-Myönnetään puhe- ja läsnäolo-oikeudet Kaisa Tikalle, Iiris Puukolle ja Albert Heinoselle
+	-Myönnetään puhe- ja läsnäolo-oikeudet Kaisa Tikalle, Iiris Puukolle ja Albert Heinoselle
 	
 4. Todetaan hallituksen taloudellinen tilanne
 	-Hallituksella rahaa 1476,18€
