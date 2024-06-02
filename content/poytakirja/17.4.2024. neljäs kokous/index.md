@@ -1,5 +1,5 @@
 ---
-title: 4. kokous 28.2.2024
+title: 4. kokous 17.4.2024
 subtitle: 
 date: 2024-04-17T12:14:51.063Z
 summary: "Neljäs kokous 17.4.2024"
