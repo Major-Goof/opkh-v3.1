@@ -1,8 +1,8 @@
 ---
-title: 4. kokous 17.4.2024
+title: 7. kokous 14.8.2024
 subtitle: 
-date: 2024-04-17T12:14:51.063Z
-summary: "Neljäs kokous 17.4.2024"
+date: 2024-08-14T12:14:51.063Z
+summary: "Seitsemäs kokous 14.8.2024"
 draft: false
 featured: false
 image:
