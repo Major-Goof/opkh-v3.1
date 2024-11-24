@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/4-kokous-2024"
+url: "/8-kokous-2024"
 ---
 {{< toc >}}
 
