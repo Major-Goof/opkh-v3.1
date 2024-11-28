@@ -1,5 +1,5 @@
 ---
-title: 11. kokous 8.10.2024
+title: 11. kokous 21.10.2024
 subtitle: 
 date: 2024-10-21T12:14:51.063Z
 summary: "Yhdestoista kokous 21.10.2024"
@@ -70,7 +70,7 @@ Kokous todetaan lailliseksi ja päätösvaltaiseksi
 	-Keskiviikko: Unlema-ammatti
 
 	-Torstai: HaLLOWEEN
-	
+
 	-Perjantai: Aripäivä
 
 	5.4. Kaappijuttu
