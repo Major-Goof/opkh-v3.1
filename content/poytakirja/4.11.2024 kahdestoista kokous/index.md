@@ -104,7 +104,8 @@ Todetaan kokous lailliseksi ja päätösvaltaiseksi
 	HEPiltä viestiä, 24. päivä olisi piirikokous, todennäköisesti KSYKissä, varma paikka selviää myöhemmin. Kannattaa mennä mukaan !!! 
 
 7. Seuraavan kokouksen ajan päättäminen Suljettu
-whatsap  
+
+	whatsap  
 
 8. Kokouksen päättäminen - kokous päätettiin ajassa 
 Kokous päätettiin ajassa 17:02 
