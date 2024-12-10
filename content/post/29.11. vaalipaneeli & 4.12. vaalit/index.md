@@ -1,7 +1,7 @@
 ---
 title: Uusien ehdokkaiden vaalipaneeli
 summary: Vaalipaneeli ehdokkaille pidetään vaalipaneeli pe 29.11. Päätä siis valitsemasi ehdokas ja äänestä vaalipäivän (ke 4.12) toisella tunnilla.
-date: 2023-11-25T11:18:13+08:00
+date: 2024-11-25T11:18:13+08:00
 draft: false
 featured: true
 authors:
