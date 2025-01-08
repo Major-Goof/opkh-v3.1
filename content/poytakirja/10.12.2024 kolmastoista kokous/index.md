@@ -1,8 +1,8 @@
 ---
-title: 12. kokous 4.11.2024
+title: 13. kokous 10.12.2024
 subtitle: 
-date: 2024-11-04T12:14:51.063Z
-summary: "Kahdestoista kokous 4.11.2024"
+date: 2024-12-10T12:14:51.063Z
+summary: "Kolmastoista kokous 10.12.2024"
 draft: false
 featured: false
 image:
@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/12-kokous-2024"
+url: "/13-kokous-2024"
 ---
 {{< toc >}}
 
