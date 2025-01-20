@@ -1,0 +1,3 @@
+Opkh:n verkkosivun ylläpitäjällä on omalla tietokoneellaan verkkosivuun littyvät tiedostot (varsinainen verkkosivu, arkisto) sekä pääsy verkkosivun ylläpitoon liittyvät palveluihin (Netlify, Formspree, Cloudflare, Github).
+
+Ylläpitäjän tehtävänä on vastata verkkosivun päivittämisestä sekä viestintävastaavien kanssa yhteistyössä julkaista ajankohtaista tietoa OPKH:n järjestämistä tapahtumista.
