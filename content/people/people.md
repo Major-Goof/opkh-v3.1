@@ -22,12 +22,11 @@ content:
   user_groups:
   - Puheenjohtaja
   - Varapuheenjohtaja
-  - Talousvastaava
-  - Talousapuri
+  - Taloudenhoitaja
+  - Taloustiimi
   - Sihteeri
-  - SLL-vastaava
   - Viestintätiimi
-  - Tapahtumatiimi
+  - Tapahtumavastaava
 
 
 
