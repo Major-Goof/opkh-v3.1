@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:jyri.muittari@edu.hel.fi 
-#- icon: instagram
-#  icon_pack: fab
-#  link: 
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/jyri_mu/
 #- icon: snapchat
 #  icon_pack: fab
 #  link: 
