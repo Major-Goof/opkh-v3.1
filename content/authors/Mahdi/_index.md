@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mahdi Khan
+title: Mahdi khan
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Tapahtumavastaava
+role: Puheenjohtaja
 
 # Organizations/Affiliations
 #organizations:
@@ -37,9 +37,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:mahdi.khan@edu.hel.fi 
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:jesse.makkonen@edu.hel.fi
 #- icon: instagram
 #  icon_pack: fab
 #  link: 
@@ -61,5 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Tapahtumatiimi
+- Puheenjohtaja
 ---

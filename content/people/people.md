@@ -22,9 +22,9 @@ content:
   user_groups:
   - Puheenjohtaja
   - Varapuheenjohtaja
+  - Sihteeri
   - Taloudenhoitaja
   - Taloustiimi
-  - Sihteeri
   - Viestintätiimi
   - Tapahtumavastaava
 
