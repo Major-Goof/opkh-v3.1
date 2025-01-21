@@ -39,10 +39,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:noa.hodju@opkh.fi
-#- icon: instagram
-#  icon_pack: fab
-#  link: 
+  link: mailto:jiro.harkanen@edu.hel.fi
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/jiro_harkanen/
 #- icon: snapchat
 #  icon_pack: fab
 #  link: 
