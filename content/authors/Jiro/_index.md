@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Noa Hojdu
+title: Jiro Härkänen
 
 # Username (this should match the folder name)
 authors:
-- Noa
+- Jiro
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Viestintävastaava
+role: Viestintätiimi
 
 # Organizations/Affiliations
 #organizations:
@@ -63,3 +63,4 @@ highlight_name: false
 user_groups:
 - Viestintätiimi
 ---
+Meet Jiro, the ultimate slay master! 💅✨ Living life like a boss and serving looks that could kill. #GreatestJiro #SlayQueen #Unstoppable
