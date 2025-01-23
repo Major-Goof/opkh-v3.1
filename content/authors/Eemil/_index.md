@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Iivo Putus
+title: Eemil Ahonen
 
 # Username (this should match the folder name)
 authors:
-- Iivo
+- Eemil
 
 # Is this the primary user of the site?
 superuser: false
@@ -39,10 +39,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:iivo.putus@edu.hel.fi 
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/iivoputus/
+  link: mailto:eemil.ahonen@edu.hel.fi
+#- icon: instagram
+#  icon_pack: fab
+#  link: 
 #- icon: snapchat
 #  icon_pack: fab
 #  link: 
@@ -61,6 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Talousvastaava
+- Taloustiimi
 ---
-ilopilleri, rahanpesijä, self proclaimed goofy goober ja abi.
