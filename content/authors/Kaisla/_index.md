@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Elli Kivilaakso
+title: Kaisla Rey Paajanen
 
 # Username (this should match the folder name)
 authors:
-- Elli
+- Kaisla
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Viestintävastaava
+role: Viestintäpäällikkö
 
 # Organizations/Affiliations
 #organizations:
@@ -39,7 +39,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:elli.kivilaakso@edu.hel.fi
+  link: mailto:kaisla.rey.paajanen@edu.hel.fi
 #- icon: instagram
 #  icon_pack: fab
 #  link: 
@@ -61,6 +61,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Viestintätiimi
+- Viestintäpäällikkö
 ---
 

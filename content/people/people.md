@@ -25,6 +25,7 @@ content:
   - Sihteeri
   - Taloudenhoitaja
   - Taloustiimi
+  - Viestintäpäällikkö
   - Viestintätiimi
   - Tapahtumavastaava
 
