@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Riku Koskenvaara
+title: Aamos Halminen
 
 # Username (this should match the folder name)
 authors:
