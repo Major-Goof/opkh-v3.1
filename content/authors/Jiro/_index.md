@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Viestintätiimi
+role: Viestintävastaava
 
 # Organizations/Affiliations
 #organizations:
