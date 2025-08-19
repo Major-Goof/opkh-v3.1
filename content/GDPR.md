@@ -22,9 +22,9 @@ info@opkh.fi
 
 ### 2. Rekisteristä vastaava yhteyshenkilö
 
-Opiskelijakunnan viestintävastaava
-Mikki Loppanen 
-Loponenmikki@gmail.com
+Opiskelijakunnan verkkosivun ylläpitäjä ja taloudenhoitaja
+Jyri Muittari 
+jyri.muittari@gmail.com
 toimii myöskin tietosuojavastaavana.
 
 ### 3. Rekistereiden nimet
