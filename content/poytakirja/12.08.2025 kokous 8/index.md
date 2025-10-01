@@ -2,7 +2,7 @@
 title: 8. kokous 12.8.2025
 subtitle: 
 date: 2025-08-12T12:14:51.063Z
-summary: "Seitsemäs OPKH kokous 12.8.2025"
+summary: "Kahdeksas OPKH kokous 12.8.2025"
 draft: false
 featured: false
 image:
