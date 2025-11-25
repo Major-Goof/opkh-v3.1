@@ -1,5 +1,5 @@
 ---
-title: Teema viikko 5.-9.5
+title: Teemaviikko 5.-9.5
 summary: Vietämme teemaviikkoa!
 date: 2025-05-05T12:28:22+08:00
 draft: false

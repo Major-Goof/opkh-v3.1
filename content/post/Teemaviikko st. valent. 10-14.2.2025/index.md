@@ -1,5 +1,5 @@
 ---
-title: Teema viikko 10.-14.2 ja ystävänpäivä
+title: Teemaviikko 10.-14.2 ja ystävänpäivä
 summary: Vietämme ystävänpäivää teemaviikolla!
 date: 2025-02-09T12:28:22+08:00
 draft: false

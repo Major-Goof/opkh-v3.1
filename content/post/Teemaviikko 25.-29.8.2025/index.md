@@ -1,5 +1,5 @@
 ---
-title: Teema viikko 25.-29.8
+title: Teemaviikko 25.-29.8
 summary: Arkeen palaaminen teemaviikolla!
 date: 2025-08-23T12:28:22+08:00
 draft: false
