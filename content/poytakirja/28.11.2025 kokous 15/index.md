@@ -1,7 +1,7 @@
 ---
 title: 15. kokous 28.11.2025
 subtitle: 
-date: 2025-11-28T16:00:00.063Z
+date: 2025-11-29T12:14:51.063Z
 summary: "Viidestoista OPKH kokous 28.11.2025"
 draft: false
 featured: false
@@ -17,6 +17,7 @@ url: "/15-kokous-2025"
 {{< toc >}}
 
 Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 28.11.2025
+
 Pöytäkirja
 
 
